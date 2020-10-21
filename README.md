@@ -26,6 +26,5 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 # Hey team members what do you think about this data set, Contains lots of info and should be plenty of fun
 https://www.kaggle.com/davidroberts13/one-small-step-for-data
 
-This one also contains tons of info
-https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+
 {Add your stuff here}
