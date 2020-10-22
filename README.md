@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Person 1: Hello my name is John I enjoy skiing and robotics! Also you can reach me on discord at Jon-Ple#7531
-- Person 2: one sentence about you!
+- Person 2: Hello, my name is Anastasia and I am studying International Relations
 - Person 3: one sentence about you!
 
 ## References
