@@ -13,7 +13,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+Our group decided to analyze a data set on the Privatization of Space. The data is provided by a website called Next Spaceflight, a site that features rocket launch schedules including key players such as SpaceX and NASA. Our data set involves the Privatization of Space specifically looking at the location, details, sector, and outcome of specific launches and which company launched the rocket. Our data was collected from the years 1957 to 2020 from several companies. Our group chose this dataset because we believed it would be an interesting and fun topic to analyze and it met specific our criteria for the data set. The data was collected by hand and through server logs. We look forward to learning how to apply data analytics to this interesting topic. 
 
 ## Team Members
 
