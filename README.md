@@ -17,7 +17,7 @@ Our group decided to analyze a data set on the Privatization of Space. The data 
 ## Team Members
 
 - Person 1: Hello, my name is John I enjoy skiing and robotics!
-- Person 2: Hello, my name is Anastasia and I am studying International Relations
+- Person 2: Hello, my name is Anastasia and I am studying International Relations!
 - Person 3: Hello, my name is Jack. I'm a comsci major and I love game development
 
 ## References
