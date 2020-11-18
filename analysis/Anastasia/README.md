@@ -1,6 +1,6 @@
 # Analysis on The Evolution of Space
 ## Research Question: 
-*Insert Here*
+*Which countries are pushing for the privatization of space exploration and the impact of privatization on success rate and cost?*
 
 ## Includes Project Function:
 - Method chaining into a function 
