@@ -3,9 +3,8 @@
 *Insert Here*
 
 ## Includes Project Function:
-- Method chaining
-- Method Chain into a function 
-- used to help load, clean, process, wrangle your data set on the privitization of Space
+- Method chaining into a function 
+- Used to help load, clean, process, wrangle our data set on the privitization of Space
 
 ## Discussion Questions
 **1. Insert Discussion Question**
