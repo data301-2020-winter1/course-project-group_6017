@@ -1,12 +1,12 @@
 # Analysis on The Evolution of Space
+
 ## Research Question: 
-*Insert Here*
+*Which countries are pushing for the privatization of space exploration and the impact of privatization on success rate and cost?*
 
-## Discussion Questions
-**1. Insert Discussion Question**
-- Findings
-- Findings
+## Milestone 1 = Complete
+## Milestone 2 = Complete
 
-**2. Insert Discussion Question**
-- Findings
-- Findings
+## Includes:
+- Method chaining into a function 
+- Exploratory Data Analysis
+- Complete Analysis of Data
