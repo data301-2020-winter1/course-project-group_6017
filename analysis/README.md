@@ -6,8 +6,8 @@
 
 ```
 # Current files
-This Folder will contain the group work projects.
-In Submitted is where you will find group works
+This Folder will contain the final group work project.
+In Submitted is where you will find group work.
 While in each name you will find each persons contribution.
 ```
 
