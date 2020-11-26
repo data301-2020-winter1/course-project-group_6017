@@ -4,12 +4,10 @@
 ### Completed milestone #2
 ## Milestone 2
 
-```
 # Current files
-This Folder will contain the final group work project.
-In Submitted is where you will find group work.
-While in each name you will find each persons contribution.
-```
+- This Folder will contain all group work on the project.
+- In the Submitted folder is where you will find a final Notebook for Milestone 2.
+- While in each name you will find each persons contribution.
 
 ## **Our data set**
 https://www.kaggle.com/davidroberts13/one-small-step-for-data
