@@ -1,0 +1,965 @@
+,Company Name,Status Rocket,Cost in Millions of Dollars,Status Mission,Country of Launch,Companys Country of Origin,Private or State Run,Year,Month,Day,Date,Launch in Country of Company
+0,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,8,7,07/08/2020,True
+1,CASIC,StatusActive,29.75 ,Success,China,China,S,2020,8,6,06/08/2020,True
+2,Roscosmos,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2020,7,30,30/07/2020,False
+3,ULA,StatusActive,145.0 ,Success,USA,USA,P,2020,7,30,30/07/2020,True
+4,CASIC,StatusActive,64.68 ,Success,China,China,S,2020,7,25,25/07/2020,True
+5,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2020,7,23,23/07/2020,False
+6,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,7,20,20/07/2020,True
+7,JAXA,StatusActive,90.0 ,Success,Japan,Japan,S,2020,7,19,19/07/2020,True
+8,Northrop,StatusActive,46.0 ,Success,USA,USA,P,2020,7,15,15/07/2020,True
+9,ExPace,StatusActive,28.3 ,Failure,China,China,S,2020,7,10,10/07/2020,True
+10,CASIC,StatusActive,29.15 ,Success,China,China,S,2020,7,9,09/07/2020,True
+11,CASIC,StatusActive,29.75 ,Success,China,China,S,2020,7,4,04/07/2020,True
+12,Rocket Lab,StatusActive,7.5 ,Failure,New Zealand,USA,P,2020,7,4,04/07/2020,False
+13,CASIC,StatusActive,64.68 ,Success,China,China,S,2020,7,3,03/07/2020,True
+14,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,6,30,30/06/2020,True
+15,CASIC,StatusActive,29.15 ,Success,China,China,S,2020,6,23,23/06/2020,True
+16,CASIC,StatusActive,29.75 ,Success,China,China,S,2020,6,17,17/06/2020,True
+17,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,6,13,13/06/2020,True
+18,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2020,6,13,13/06/2020,False
+19,CASIC,StatusActive,30.8 ,Success,China,China,S,2020,6,10,10/06/2020,True
+20,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,6,4,04/06/2020,True
+21,CASIC,StatusActive,29.75 ,Success,China,China,S,2020,5,31,31/05/2020,True
+22,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,5,30,30/05/2020,True
+23,CASIC,StatusActive,5.3 ,Success,China,China,S,2020,5,29,29/05/2020,True
+24,Virgin Orbit,StatusActive,12.0 ,Failure,USA,USA,P,2020,5,25,25/05/2020,True
+25,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2020,5,20,20/05/2020,True
+26,ULA,StatusActive,120.0 ,Success,USA,USA,P,2020,5,17,17/05/2020,True
+27,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2020,4,25,25/04/2020,False
+28,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,4,22,22/04/2020,True
+29,CASIC,StatusActive,29.15 ,Failure,China,China,S,2020,4,9,09/04/2020,True
+30,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2020,4,9,09/04/2020,False
+31,ULA,StatusActive,153.0 ,Success,USA,USA,P,2020,3,26,26/03/2020,True
+32,CASIC,StatusActive,30.8 ,Success,China,China,S,2020,3,24,24/03/2020,True
+33,Arianespace,StatusActive,48.5 ,Success,Kazakhstan,Multi,P,2020,3,21,21/03/2020,False
+34,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,3,18,18/03/2020,True
+35,CASIC,StatusActive,29.15 ,Success,China,China,S,2020,3,9,09/03/2020,True
+36,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,3,7,07/03/2020,True
+37,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2020,2,20,20/02/2020,True
+38,CASIC,StatusActive,29.75 ,Success,China,China,S,2020,2,19,19/02/2020,True
+39,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2020,2,18,18/02/2020,False
+40,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,2,17,17/02/2020,True
+41,Northrop,StatusActive,85.0 ,Success,USA,USA,P,2020,2,15,15/02/2020,True
+42,ULA,StatusActive,115.0 ,Success,USA,USA,P,2020,2,10,10/02/2020,True
+43,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2020,2,9,09/02/2020,True
+44,Arianespace,StatusActive,48.5 ,Success,Kazakhstan,Multi,P,2020,2,6,06/02/2020,False
+45,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2020,1,31,31/01/2020,False
+46,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,1,29,29/01/2020,True
+47,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,1,19,19/01/2020,True
+48,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2020,1,16,16/01/2020,False
+49,CASIC,StatusActive,29.75 ,Success,China,China,S,2020,1,15,15/01/2020,True
+50,CASIC,StatusActive,29.15 ,Success,China,China,S,2020,1,7,07/01/2020,True
+51,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2020,1,7,07/01/2020,True
+52,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2019,12,26,26/12/2019,True
+53,Roscosmos,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2019,12,24,24/12/2019,False
+54,CASIC,StatusActive,64.68 ,Success,China,China,S,2019,12,20,20/12/2019,True
+55,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,12,17,17/12/2019,True
+56,ISRO,StatusActive,21.0 ,Success,India,India,S,2019,12,11,11/12/2019,True
+57,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2019,12,11,11/12/2019,True
+58,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2019,12,6,06/12/2019,False
+59,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2019,12,6,06/12/2019,False
+60,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,12,5,05/12/2019,True
+61,CASIC,StatusActive,64.68 ,Success,China,China,S,2019,11,27,27/11/2019,True
+62,ISRO,StatusActive,31.0 ,Success,India,India,S,2019,11,27,27/11/2019,True
+63,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2019,11,26,26/11/2019,False
+64,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,11,11,11/11/2019,True
+65,CASIC,StatusActive,29.15 ,Success,China,China,S,2019,11,4,04/11/2019,True
+66,CASIC,StatusActive,64.68 ,Success,China,China,S,2019,11,3,03/11/2019,True
+67,Northrop,StatusActive,85.0 ,Success,USA,USA,P,2019,11,2,02/11/2019,True
+68,CASIC,StatusActive,29.15 ,Success,China,China,S,2019,10,17,17/10/2019,True
+69,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2019,10,17,17/10/2019,False
+70,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2019,10,11,11/10/2019,True
+71,ILS,StatusActive,65.0 ,Success,Kazakhstan,USA,P,2019,10,9,09/10/2019,False
+72,CASIC,StatusActive,64.68 ,Success,China,China,S,2019,10,4,04/10/2019,True
+73,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2019,9,26,26/09/2019,True
+74,CASIC,StatusActive,29.75 ,Success,China,China,S,2019,9,25,25/09/2019,True
+75,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2019,9,24,24/09/2019,True
+76,CASIC,StatusActive,5.3 ,Success,China,China,S,2019,9,19,19/09/2019,True
+77,CASIC,StatusActive,64.68 ,Success,China,China,S,2019,9,12,12/09/2019,True
+78,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2019,8,30,30/08/2019,True
+79,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2019,8,22,22/08/2019,True
+80,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2019,8,22,22/08/2019,False
+81,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2019,8,19,19/08/2019,False
+82,CASIC,StatusActive,29.15 ,Success,China,China,S,2019,8,19,19/08/2019,True
+83,CASIC,StatusActive,7.5 ,Success,China,China,S,2019,8,17,17/08/2019,True
+84,ULA,StatusActive,153.0 ,Success,USA,USA,P,2019,8,8,08/08/2019,True
+85,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,8,6,06/08/2019,True
+86,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2019,8,6,06/08/2019,False
+87,Roscosmos,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2019,8,5,05/08/2019,False
+88,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2019,7,31,31/07/2019,False
+89,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2019,7,30,30/07/2019,True
+90,CASIC,StatusActive,30.8 ,Success,China,China,S,2019,7,26,26/07/2019,True
+91,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,7,25,25/07/2019,True
+92,ISRO,StatusActive,62.0 ,Success,India,India,S,2019,7,22,22/07/2019,True
+93,Roscosmos,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2019,7,13,13/07/2019,False
+94,Arianespace,StatusActive,37.0 ,Failure,France,Multi,P,2019,7,11,11/07/2019,False
+95,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2019,6,29,29/06/2019,False
+96,SpaceX,StatusActive,90.0 ,Success,USA,USA,P,2019,6,25,25/06/2019,True
+97,CASIC,StatusActive,29.15 ,Success,China,China,S,2019,6,24,24/06/2019,True
+98,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2019,6,20,20/06/2019,False
+99,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,6,12,12/06/2019,True
+100,CASIC,StatusActive,5.3 ,Success,China,China,S,2019,6,5,05/06/2019,True
+101,Roscosmos,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2019,5,30,30/05/2019,False
+102,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,5,24,24/05/2019,True
+103,CASIC,StatusActive,64.68 ,Failure,China,China,S,2019,5,22,22/05/2019,True
+104,ISRO,StatusActive,21.0 ,Success,India,India,S,2019,5,22,22/05/2019,True
+105,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2019,5,5,05/05/2019,False
+106,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,5,4,04/05/2019,True
+107,CASIC,StatusActive,64.68 ,Success,China,China,S,2019,4,29,29/04/2019,True
+108,CASIC,StatusActive,29.15 ,Success,China,China,S,2019,4,20,20/04/2019,True
+109,Northrop,StatusRetired,85.0 ,Success,USA,USA,P,2019,4,17,17/04/2019,True
+110,SpaceX,StatusActive,90.0 ,Success,USA,USA,P,2019,4,11,11/04/2019,True
+111,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2019,4,4,04/04/2019,False
+112,ISRO,StatusActive,21.0 ,Success,India,India,S,2019,4,1,01/04/2019,True
+113,CASIC,StatusActive,29.15 ,Success,China,China,S,2019,3,31,31/03/2019,True
+114,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2019,3,28,28/03/2019,False
+115,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2019,3,22,22/03/2019,False
+116,CASIC,StatusActive,29.15 ,Success,China,China,S,2019,3,9,09/03/2019,True
+117,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,3,2,02/03/2019,True
+118,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,2,22,22/02/2019,True
+119,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2019,2,5,05/02/2019,False
+120,CASIC,StatusActive,5.3 ,Success,China,China,S,2019,1,21,21/01/2019,True
+121,ULA,StatusActive,350.0 ,Success,USA,USA,P,2019,1,19,19/01/2019,True
+122,JAXA,StatusActive,39.0 ,Success,Japan,Japan,S,2019,1,18,18/01/2019,True
+123,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2019,1,11,11/01/2019,True
+124,CASIC,StatusActive,29.15 ,Success,China,China,S,2019,1,10,10/01/2019,True
+125,Roscosmos,StatusActive,48.5 ,Success,Russia,Russia,S,2018,12,27,27/12/2018,True
+126,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,12,23,23/12/2018,True
+127,CASIC,StatusActive,5.3 ,Success,China,China,S,2018,12,21,21/12/2018,True
+128,VKS RF,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2018,12,21,21/12/2018,False
+129,ISRO,StatusActive,47.0 ,Success,India,India,S,2018,12,19,19/12/2018,True
+130,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2018,12,16,16/12/2018,False
+131,CASIC,StatusActive,29.15 ,Success,China,China,S,2018,12,7,07/12/2018,True
+132,CASIC,StatusActive,29.75 ,Success,China,China,S,2018,12,7,07/12/2018,True
+133,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,12,5,05/12/2018,True
+134,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2018,12,4,04/12/2018,False
+135,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,12,3,03/12/2018,True
+136,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2018,11,30,30/11/2018,True
+137,ISRO,StatusActive,21.0 ,Success,India,India,S,2018,11,29,29/11/2018,True
+138,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2018,11,21,21/11/2018,False
+139,CASIC,StatusActive,29.75 ,Success,China,China,S,2018,11,19,19/11/2018,True
+140,Northrop,StatusRetired,85.0 ,Success,USA,USA,P,2018,11,17,17/11/2018,True
+141,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,11,15,15/11/2018,True
+142,ISRO,StatusActive,62.0 ,Success,India,India,S,2018,11,14,14/11/2018,True
+143,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2018,11,11,11/11/2018,False
+144,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2018,11,3,03/11/2018,True
+145,CASIC,StatusActive,29.15 ,Success,China,China,S,2018,11,1,01/11/2018,True
+146,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2018,10,29,29/10/2018,True
+147,CASIC,StatusActive,30.8 ,Success,China,China,S,2018,10,29,29/10/2018,True
+148,Roscosmos,StatusActive,35.0 ,Success,Russia,Russia,S,2018,10,25,25/10/2018,True
+149,CASIC,StatusActive,64.68 ,Success,China,China,S,2018,10,24,24/10/2018,True
+150,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2018,10,20,20/10/2018,False
+151,ULA,StatusActive,153.0 ,Success,USA,USA,P,2018,10,17,17/10/2018,True
+152,CASIC,StatusActive,30.8 ,Success,China,China,S,2018,10,9,09/10/2018,True
+153,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,10,8,08/10/2018,True
+154,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2018,9,25,25/09/2018,False
+155,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2018,9,22,22/09/2018,True
+156,ISRO,StatusActive,21.0 ,Success,India,India,S,2018,9,16,16/09/2018,True
+157,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,9,10,10/09/2018,True
+158,CASIC,StatusActive,30.8 ,Success,China,China,S,2018,9,7,07/09/2018,True
+159,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2018,8,22,22/08/2018,False
+160,ULA,StatusActive,350.0 ,Success,USA,USA,P,2018,8,12,12/08/2018,True
+161,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,8,7,07/08/2018,True
+162,CASIC,StatusActive,64.68 ,Success,China,China,S,2018,7,31,31/07/2018,True
+163,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,7,25,25/07/2018,True
+164,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,7,22,22/07/2018,True
+165,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2018,7,9,09/07/2018,False
+166,CASIC,StatusActive,69.7 ,Success,China,China,S,2018,7,9,09/07/2018,True
+167,CASIC,StatusActive,30.8 ,Success,China,China,S,2018,7,9,09/07/2018,True
+168,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,6,29,29/06/2018,True
+169,CASIC,StatusActive,30.8 ,Success,China,China,S,2018,6,27,27/06/2018,True
+170,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2018,6,12,12/06/2018,True
+171,CASIC,StatusActive,69.7 ,Success,China,China,S,2018,6,5,05/06/2018,True
+172,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,6,4,04/06/2018,True
+173,CASIC,StatusActive,29.75 ,Success,China,China,S,2018,6,2,02/06/2018,True
+174,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,5,22,22/05/2018,True
+175,Northrop,StatusRetired,85.0 ,Success,USA,USA,P,2018,5,21,21/05/2018,True
+176,CASIC,StatusActive,64.68 ,Success,China,China,S,2018,5,20,20/05/2018,True
+177,SpaceX,StatusActive,50.0 ,Success,USA,USA,P,2018,5,11,11/05/2018,True
+178,CASIC,StatusActive,64.68 ,Success,China,China,S,2018,5,8,08/05/2018,True
+179,ULA,StatusActive,109.0 ,Success,USA,USA,P,2018,5,5,05/05/2018,True
+180,CASIC,StatusActive,29.15 ,Success,China,China,S,2018,5,3,03/05/2018,True
+181,CASIC,StatusActive,5.3 ,Success,China,China,S,2018,4,26,26/04/2018,True
+182,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2018,4,25,25/04/2018,False
+183,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,4,18,18/04/2018,True
+184,VKS RF,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2018,4,18,18/04/2018,False
+185,ULA,StatusActive,153.0 ,Success,USA,USA,P,2018,4,14,14/04/2018,True
+186,ISRO,StatusActive,31.0 ,Success,India,India,S,2018,4,11,11/04/2018,True
+187,CASIC,StatusActive,64.68 ,Success,China,China,S,2018,4,10,10/04/2018,True
+188,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2018,4,5,05/04/2018,False
+189,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,4,2,02/04/2018,True
+190,CASIC,StatusActive,64.68 ,Success,China,China,S,2018,3,31,31/03/2018,True
+191,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,3,30,30/03/2018,True
+192,ISRO,StatusActive,47.0 ,Success,India,India,S,2018,3,29,29/03/2018,True
+193,CASIC,StatusActive,29.75 ,Success,China,China,S,2018,3,17,17/03/2018,True
+194,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,3,6,06/03/2018,True
+195,ULA,StatusActive,145.0 ,Success,USA,USA,P,2018,3,1,01/03/2018,True
+196,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2018,2,27,27/02/2018,True
+197,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,2,22,22/02/2018,True
+198,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2018,2,13,13/02/2018,False
+199,SpaceX,StatusActive,90.0 ,Success,USA,USA,P,2018,2,6,06/02/2018,True
+200,CASIC,StatusActive,29.75 ,Success,China,China,S,2018,2,2,02/02/2018,True
+201,Roscosmos,StatusActive,48.5 ,Success,Russia,Russia,S,2018,2,1,01/02/2018,True
+202,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,1,31,31/01/2018,True
+203,Arianespace,StatusActive,200.0 ,Partial Failure,France,Multi,P,2018,1,25,25/01/2018,False
+204,CASIC,StatusActive,30.8 ,Success,China,China,S,2018,1,25,25/01/2018,True
+205,Rocket Lab,StatusActive,7.5 ,Success,New Zealand,USA,P,2018,1,21,21/01/2018,False
+206,ULA,StatusActive,115.0 ,Success,USA,USA,P,2018,1,20,20/01/2018,True
+207,CASIC,StatusActive,5.3 ,Success,China,China,S,2018,1,19,19/01/2018,True
+208,JAXA,StatusActive,39.0 ,Success,Japan,Japan,S,2018,1,17,17/01/2018,True
+209,CASIC,StatusActive,29.75 ,Success,China,China,S,2018,1,13,13/01/2018,True
+210,ISRO,StatusActive,31.0 ,Success,India,India,S,2018,1,12,12/01/2018,True
+211,CASIC,StatusActive,29.75 ,Success,China,China,S,2018,1,9,09/01/2018,True
+212,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2018,1,8,08/01/2018,True
+213,CASIC,StatusActive,30.8 ,Success,China,China,S,2017,12,25,25/12/2017,True
+214,CASIC,StatusActive,29.75 ,Success,China,China,S,2017,12,23,23/12/2017,True
+215,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,12,23,23/12/2017,True
+216,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2017,12,23,23/12/2017,True
+217,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,12,15,15/12/2017,True
+218,CASIC,StatusActive,29.15 ,Success,China,China,S,2017,12,10,10/12/2017,True
+219,CASIC,StatusActive,29.75 ,Success,China,China,S,2017,12,3,03/12/2017,True
+220,VKS RF,StatusActive,35.0 ,Success,Russia,Russia,S,2017,12,2,02/12/2017,True
+221,CASIC,StatusActive,30.8 ,Success,China,China,S,2017,11,24,24/11/2017,True
+222,CASIC,StatusActive,64.68 ,Success,China,China,S,2017,11,14,14/11/2017,True
+223,Northrop,StatusRetired,85.0 ,Success,USA,USA,P,2017,11,12,12/11/2017,True
+224,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2017,11,8,08/11/2017,False
+225,Northrop,StatusActive,45.0 ,Success,USA,USA,P,2017,10,31,31/10/2017,True
+226,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,10,30,30/10/2017,True
+227,ULA,StatusActive,123.0 ,Success,USA,USA,P,2017,10,15,15/10/2017,True
+228,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2017,10,14,14/10/2017,False
+229,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2017,10,13,13/10/2017,False
+230,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,10,11,11/10/2017,True
+231,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2017,10,9,09/10/2017,True
+232,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,10,9,09/10/2017,True
+233,CASIC,StatusActive,29.75 ,Success,China,China,S,2017,10,9,09/10/2017,True
+234,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2017,9,29,29/09/2017,False
+235,CASIC,StatusActive,30.8 ,Success,China,China,S,2017,9,29,29/09/2017,True
+236,VKS RF,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2017,9,28,28/09/2017,False
+237,ULA,StatusActive,145.0 ,Success,USA,USA,P,2017,9,24,24/09/2017,True
+238,ILS,StatusActive,65.0 ,Success,Kazakhstan,USA,P,2017,9,11,11/09/2017,False
+239,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,9,7,07/09/2017,True
+240,ISRO,StatusActive,31.0 ,Failure,India,India,S,2017,8,31,31/08/2017,True
+241,Northrop,StatusActive,46.0 ,Success,USA,USA,P,2017,8,25,25/08/2017,True
+242,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,8,24,24/08/2017,True
+243,ULA,StatusActive,109.0 ,Success,USA,USA,P,2017,8,18,18/08/2017,True
+244,VKS RF,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2017,8,16,16/08/2017,False
+245,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,8,14,14/08/2017,True
+246,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2017,8,2,02/08/2017,False
+247,Roscosmos,StatusActive,48.5 ,Partial Failure,Kazakhstan,Russia,S,2017,7,14,14/07/2017,False
+248,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,7,5,05/07/2017,True
+249,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2017,6,28,28/06/2017,False
+250,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,6,25,25/06/2017,True
+251,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,6,23,23/06/2017,True
+252,ISRO,StatusActive,31.0 ,Success,India,India,S,2017,6,23,23/06/2017,True
+253,CASIC,StatusActive,29.15 ,Partial Failure,China,China,S,2017,6,18,18/06/2017,True
+254,CASIC,StatusActive,64.68 ,Success,China,China,S,2017,6,15,15/06/2017,True
+255,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2017,6,14,14/06/2017,False
+256,ILS,StatusActive,65.0 ,Success,Kazakhstan,USA,P,2017,6,8,08/06/2017,False
+257,ISRO,StatusActive,62.0 ,Success,India,India,S,2017,6,5,05/06/2017,True
+258,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,6,3,03/06/2017,True
+259,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2017,6,1,01/06/2017,False
+260,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2017,6,1,01/06/2017,True
+261,Rocket Lab,StatusActive,7.5 ,Failure,New Zealand,USA,P,2017,5,25,25/05/2017,False
+262,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,5,15,15/05/2017,True
+263,ISRO,StatusActive,47.0 ,Success,India,India,S,2017,5,5,05/05/2017,True
+264,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2017,5,4,04/05/2017,False
+265,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,5,1,01/05/2017,True
+266,ULA,StatusActive,109.0 ,Success,USA,USA,P,2017,4,18,18/04/2017,True
+267,CASIC,StatusActive,29.15 ,Success,China,China,S,2017,4,12,12/04/2017,True
+268,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,3,30,30/03/2017,True
+269,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2017,3,17,17/03/2017,True
+270,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,3,16,16/03/2017,True
+271,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2017,3,7,07/03/2017,False
+272,ULA,StatusActive,109.0 ,Success,USA,USA,P,2017,3,1,01/03/2017,True
+273,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,2,19,19/02/2017,True
+274,ISRO,StatusActive,31.0 ,Success,India,India,S,2017,2,15,15/02/2017,True
+275,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2017,2,14,14/02/2017,False
+276,ULA,StatusActive,109.0 ,Success,USA,USA,P,2017,1,21,21/01/2017,True
+277,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2017,1,14,14/01/2017,True
+278,CASIC,StatusActive,29.15 ,Success,China,China,S,2017,1,5,05/01/2017,True
+279,CASIC,StatusActive,29.75 ,Partial Failure,China,China,S,2016,12,28,28/12/2016,True
+280,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2016,12,21,21/12/2016,False
+281,CASIC,StatusActive,29.75 ,Success,China,China,S,2016,12,21,21/12/2016,True
+282,ULA,StatusActive,130.0 ,Success,USA,USA,P,2016,12,18,18/12/2016,True
+283,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2016,12,15,15/12/2016,True
+284,CASIC,StatusActive,29.15 ,Success,China,China,S,2016,12,10,10/12/2016,True
+285,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2016,12,9,09/12/2016,True
+286,ISRO,StatusActive,31.0 ,Success,India,India,S,2016,12,7,07/12/2016,True
+287,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2016,12,5,05/12/2016,False
+288,ULA,StatusActive,145.0 ,Success,USA,USA,P,2016,11,19,19/11/2016,True
+289,CASIC,StatusActive,29.75 ,Success,China,China,S,2016,11,11,11/11/2016,True
+290,ULA,StatusActive,109.0 ,Success,USA,USA,P,2016,11,11,11/11/2016,True
+291,CASIC,StatusActive,5.3 ,Success,China,China,S,2016,11,9,09/11/2016,True
+292,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2016,11,2,02/11/2016,True
+293,Northrop,StatusRetired,85.0 ,Success,USA,USA,P,2016,10,17,17/10/2016,True
+294,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2016,10,5,05/10/2016,False
+295,ISRO,StatusRetired,25.0 ,Success,India,India,S,2016,9,26,26/09/2016,True
+296,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2016,9,16,16/09/2016,False
+297,ULA,StatusActive,115.0 ,Success,USA,USA,P,2016,9,8,08/09/2016,True
+298,ISRO,StatusActive,47.0 ,Success,India,India,S,2016,9,8,08/09/2016,True
+299,SpaceX,StatusRetired,62.0 ,Prelaunch Failure,USA,USA,P,2016,9,1,01/09/2016,True
+300,CASIC,StatusActive,64.68 ,Failure,China,China,S,2016,8,31,31/08/2016,True
+301,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2016,8,24,24/08/2016,False
+302,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2016,8,19,19/08/2016,True
+303,CASIC,StatusActive,29.75 ,Success,China,China,S,2016,8,15,15/08/2016,True
+304,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2016,8,14,14/08/2016,True
+305,CASIC,StatusActive,64.68 ,Success,China,China,S,2016,8,9,09/08/2016,True
+306,CASIC,StatusActive,29.15 ,Success,China,China,S,2016,8,5,05/08/2016,True
+307,ULA,StatusActive,123.0 ,Success,USA,USA,P,2016,7,28,28/07/2016,True
+308,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2016,7,18,18/07/2016,True
+309,CASIC,StatusActive,64.68 ,Success,China,China,S,2016,6,29,29/06/2016,True
+310,ULA,StatusActive,153.0 ,Success,USA,USA,P,2016,6,24,24/06/2016,True
+311,ISRO,StatusActive,31.0 ,Success,India,India,S,2016,6,22,22/06/2016,True
+312,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2016,6,18,18/06/2016,False
+313,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2016,6,15,15/06/2016,True
+314,ULA,StatusActive,350.0 ,Success,USA,USA,P,2016,6,11,11/06/2016,True
+315,ILS,StatusActive,65.0 ,Success,Kazakhstan,USA,P,2016,6,9,09/06/2016,False
+316,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2016,6,4,04/06/2016,True
+317,CASIC,StatusActive,64.68 ,Success,China,China,S,2016,5,30,30/05/2016,True
+318,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2016,5,29,29/05/2016,True
+319,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2016,5,27,27/05/2016,True
+320,CASIC,StatusActive,29.75 ,Success,China,China,S,2016,5,15,15/05/2016,True
+321,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2016,5,6,06/05/2016,True
+322,ISRO,StatusActive,31.0 ,Success,India,India,S,2016,4,28,28/04/2016,True
+323,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2016,4,8,08/04/2016,True
+324,CASIC,StatusActive,29.75 ,Success,China,China,S,2016,4,5,05/04/2016,True
+325,Roscosmos,StatusActive,48.5 ,Success,Kazakhstan,Russia,S,2016,3,31,31/03/2016,False
+326,CASIC,StatusActive,69.7 ,Success,China,China,S,2016,3,29,29/03/2016,True
+327,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2016,3,24,24/03/2016,True
+328,ULA,StatusActive,109.0 ,Success,USA,USA,P,2016,3,23,23/03/2016,True
+329,Roscosmos,StatusActive,65.0 ,Success,Kazakhstan,Russia,S,2016,3,14,14/03/2016,False
+330,Roscosmos,StatusActive,35.0 ,Success,Kazakhstan,Russia,S,2016,3,13,13/03/2016,False
+331,ISRO,StatusActive,31.0 ,Success,India,India,S,2016,3,10,10/03/2016,True
+332,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2016,3,9,09/03/2016,False
+333,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2016,3,4,04/03/2016,True
+334,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2016,2,17,17/02/2016,True
+335,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2016,2,16,16/02/2016,False
+336,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2016,2,7,07/02/2016,True
+337,ULA,StatusActive,109.0 ,Success,USA,USA,P,2016,2,5,05/02/2016,True
+338,ILS,StatusActive,65.0 ,Success,Kazakhstan,USA,P,2016,1,29,29/01/2016,False
+339,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2016,1,27,27/01/2016,False
+340,ISRO,StatusActive,31.0 ,Success,India,India,S,2016,1,20,20/01/2016,True
+341,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2016,1,17,17/01/2016,True
+342,CASIC,StatusActive,29.15 ,Success,China,China,S,2016,1,15,15/01/2016,True
+343,SpaceX,StatusRetired,62.0 ,Success,USA,USA,P,2015,12,22,22/12/2015,True
+344,ISRO,StatusActive,21.0 ,Success,India,India,S,2015,12,16,16/12/2015,True
+345,ULA,StatusActive,109.0 ,Success,USA,USA,P,2015,12,6,06/12/2015,True
+346,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2015,12,3,03/12/2015,False
+347,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2015,11,10,10/11/2015,False
+348,Sandia,StatusActive,15.0 ,Failure,USA,USA,S,2015,11,4,04/11/2015,True
+349,ULA,StatusActive,109.0 ,Success,USA,USA,P,2015,10,31,31/10/2015,True
+350,ULA,StatusActive,109.0 ,Success,USA,USA,P,2015,10,8,08/10/2015,True
+351,ULA,StatusActive,123.0 ,Success,USA,USA,P,2015,10,2,02/10/2015,True
+352,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2015,9,30,30/09/2015,False
+353,ISRO,StatusActive,31.0 ,Success,India,India,S,2015,9,28,28/09/2015,True
+354,CASIC,StatusActive,5.3 ,Success,China,China,S,2015,9,25,25/09/2015,True
+355,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2015,9,23,23/09/2015,True
+356,ULA,StatusActive,153.0 ,Success,USA,USA,P,2015,9,2,02/09/2015,True
+357,ISRO,StatusActive,47.0 ,Success,India,India,S,2015,8,27,27/08/2015,True
+358,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2015,8,20,20/08/2015,False
+359,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2015,8,19,19/08/2015,True
+360,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2015,7,15,15/07/2015,False
+361,ULA,StatusActive,109.0 ,Success,USA,USA,P,2015,7,15,15/07/2015,True
+362,ISRO,StatusActive,31.0 ,Success,India,India,S,2015,7,10,10/07/2015,True
+363,SpaceX,StatusRetired,56.5 ,Failure,USA,USA,P,2015,6,28,28/06/2015,True
+364,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2015,6,23,23/06/2015,False
+365,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2015,5,27,27/05/2015,False
+366,ULA,StatusActive,120.0 ,Success,USA,USA,P,2015,5,20,20/05/2015,True
+367,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2015,4,27,27/04/2015,True
+368,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2015,4,26,26/04/2015,False
+369,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2015,4,15,15/04/2015,True
+370,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2015,3,31,31/03/2015,True
+371,ISRO,StatusActive,31.0 ,Success,India,India,S,2015,3,28,28/03/2015,True
+372,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2015,3,26,26/03/2015,True
+373,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2015,3,25,25/03/2015,True
+374,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2015,3,25,25/03/2015,True
+375,ULA,StatusActive,123.0 ,Success,USA,USA,P,2015,3,13,13/03/2015,True
+376,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2015,3,2,02/03/2015,True
+377,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2015,2,11,11/02/2015,True
+378,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2015,2,11,11/02/2015,False
+379,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2015,2,1,01/02/2015,True
+380,ULA,StatusActive,153.0 ,Success,USA,USA,P,2015,1,21,21/01/2015,True
+381,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2015,1,10,10/01/2015,True
+382,ISRO,StatusActive,62.0 ,Success,India,India,S,2014,12,18,18/12/2014,True
+383,ULA,StatusActive,145.0 ,Success,USA,USA,P,2014,12,13,13/12/2014,True
+384,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2014,12,6,06/12/2014,False
+385,ULA,StatusActive,350.0 ,Success,USA,USA,P,2014,12,5,05/12/2014,True
+386,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2014,12,3,03/12/2014,True
+387,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2014,11,6,06/11/2014,True
+388,ULA,StatusActive,109.0 ,Success,USA,USA,P,2014,10,29,29/10/2014,True
+389,Northrop,StatusRetired,80.0 ,Failure,USA,USA,P,2014,10,28,28/10/2014,True
+390,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2014,10,16,16/10/2014,False
+391,ISRO,StatusActive,31.0 ,Success,India,India,S,2014,10,16,16/10/2014,True
+392,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2014,10,7,07/10/2014,True
+393,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2014,9,21,21/09/2014,True
+394,ULA,StatusActive,109.0 ,Success,USA,USA,P,2014,9,17,17/09/2014,True
+395,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2014,9,11,11/09/2014,False
+396,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2014,9,7,07/09/2014,True
+397,ULA,StatusActive,109.0 ,Success,USA,USA,P,2014,8,13,13/08/2014,True
+398,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2014,8,5,05/08/2014,True
+399,ULA,StatusActive,109.0 ,Success,USA,USA,P,2014,8,2,02/08/2014,True
+400,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2014,7,28,28/07/2014,True
+401,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2014,7,14,14/07/2014,True
+402,Northrop,StatusRetired,80.0 ,Success,USA,USA,P,2014,7,13,13/07/2014,True
+403,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2014,7,3,03/07/2014,True
+404,ISRO,StatusActive,21.0 ,Success,India,India,S,2014,6,30,30/06/2014,True
+405,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2014,6,19,19/06/2014,True
+406,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2014,5,24,24/05/2014,True
+407,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2014,5,23,23/05/2014,True
+408,ULA,StatusActive,109.0 ,Success,USA,USA,P,2014,5,22,22/05/2014,True
+409,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2014,5,17,17/05/2014,True
+410,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2014,4,30,30/04/2014,False
+411,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2014,4,18,18/04/2014,True
+412,ULA,StatusActive,145.0 ,Success,USA,USA,P,2014,4,10,10/04/2014,True
+413,ISRO,StatusActive,31.0 ,Success,India,India,S,2014,4,4,04/04/2014,True
+414,ULA,StatusActive,109.0 ,Success,USA,USA,P,2014,4,3,03/04/2014,True
+415,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2014,3,22,22/03/2014,False
+416,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2014,2,27,27/02/2014,True
+417,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2014,2,21,21/02/2014,True
+418,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2014,2,6,06/02/2014,False
+419,ULA,StatusActive,109.0 ,Success,USA,USA,P,2014,1,24,24/01/2014,True
+420,Northrop,StatusRetired,80.0 ,Success,USA,USA,P,2014,1,9,09/01/2014,True
+421,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2014,1,6,06/01/2014,True
+422,ISRO,StatusActive,47.0 ,Success,India,India,S,2014,1,5,05/01/2014,True
+423,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2013,12,25,25/12/2013,True
+424,ULA,StatusActive,120.0 ,Success,USA,USA,P,2013,12,6,06/12/2013,True
+425,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2013,12,3,03/12/2013,True
+426,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2013,11,22,22/11/2013,True
+427,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2013,11,21,21/11/2013,True
+428,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2013,11,20,20/11/2013,True
+429,ULA,StatusActive,109.0 ,Success,USA,USA,P,2013,11,18,18/11/2013,True
+430,ISRO,StatusActive,31.0 ,Success,India,India,S,2013,11,5,05/11/2013,True
+431,SpaceX,StatusRetired,56.5 ,Success,USA,USA,P,2013,9,29,29/09/2013,True
+432,ULA,StatusActive,140.0 ,Success,USA,USA,P,2013,9,18,18/09/2013,True
+433,Northrop,StatusRetired,80.0 ,Success,USA,USA,P,2013,9,13,13/09/2013,True
+434,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2013,9,11,11/09/2013,True
+435,Northrop,StatusActive,55.0 ,Success,USA,USA,P,2013,9,7,07/09/2013,True
+436,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2013,8,29,29/08/2013,False
+437,ULA,StatusActive,350.0 ,Success,USA,USA,P,2013,8,28,28/08/2013,True
+438,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2013,8,22,22/08/2013,True
+439,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2013,8,3,03/08/2013,True
+440,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2013,7,25,25/07/2013,False
+441,ULA,StatusActive,153.0 ,Success,USA,USA,P,2013,7,19,19/07/2013,True
+442,VKS RF,StatusActive,65.0 ,Failure,Kazakhstan,Russia,S,2013,7,2,02/07/2013,False
+443,ISRO,StatusActive,31.0 ,Success,India,India,S,2013,7,1,01/07/2013,True
+444,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2013,6,28,28/06/2013,True
+445,ULA,StatusActive,109.0 ,Success,USA,USA,P,2013,5,15,15/05/2013,True
+446,Arianespace,StatusActive,37.0 ,Success,France,Multi,P,2013,5,7,07/05/2013,False
+447,Northrop,StatusRetired,80.0 ,Success,USA,USA,P,2013,4,21,21/04/2013,True
+448,ULA,StatusActive,109.0 ,Success,USA,USA,P,2013,3,19,19/03/2013,True
+449,SpaceX,StatusRetired,59.5 ,Success,USA,USA,P,2013,3,1,01/03/2013,True
+450,ISRO,StatusActive,21.0 ,Success,India,India,S,2013,2,25,25/02/2013,True
+451,ULA,StatusActive,109.0 ,Success,USA,USA,P,2013,2,11,11/02/2013,True
+452,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2013,2,7,07/02/2013,False
+453,ULA,StatusActive,109.0 ,Success,USA,USA,P,2013,1,31,31/01/2013,True
+454,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2013,1,27,27/01/2013,True
+455,VKS RF,StatusRetired,41.8 ,Partial Failure,Russia,Russia,S,2013,1,15,15/01/2013,True
+456,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2012,12,19,19/12/2012,False
+457,ULA,StatusActive,120.0 ,Success,USA,USA,P,2012,12,11,11/12/2012,True
+458,Arianespace,StatusActive,80.0 ,Success,France,Multi,P,2012,12,2,02/12/2012,False
+459,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2012,11,10,10/11/2012,False
+460,SpaceX,StatusRetired,59.5 ,Partial Failure,USA,USA,P,2012,10,8,08/10/2012,True
+461,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2012,10,4,04/10/2012,True
+462,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2012,9,28,28/09/2012,False
+463,ULA,StatusActive,109.0 ,Success,USA,USA,P,2012,9,13,13/09/2012,True
+464,ISRO,StatusActive,21.0 ,Success,India,India,S,2012,9,9,09/09/2012,True
+465,ULA,StatusActive,109.0 ,Success,USA,USA,P,2012,8,30,30/08/2012,True
+466,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2012,8,2,02/08/2012,False
+467,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2012,7,28,28/07/2012,True
+468,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2012,7,21,21/07/2012,True
+469,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2012,7,5,05/07/2012,False
+470,ULA,StatusActive,350.0 ,Success,USA,USA,P,2012,6,29,29/06/2012,True
+471,ULA,StatusActive,109.0 ,Success,USA,USA,P,2012,6,20,20/06/2012,True
+472,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2012,6,13,13/06/2012,True
+473,SpaceX,StatusRetired,59.5 ,Success,USA,USA,P,2012,5,22,22/05/2012,True
+474,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2012,5,17,17/05/2012,True
+475,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2012,5,15,15/05/2012,False
+476,ULA,StatusActive,140.0 ,Success,USA,USA,P,2012,5,4,04/05/2012,True
+477,ISRO,StatusActive,31.0 ,Success,India,India,S,2012,4,26,26/04/2012,True
+478,ISRO,StatusActive,31.0 ,Success,India,India,S,2012,4,26,26/04/2012,True
+479,ULA,StatusActive,153.0 ,Success,USA,USA,P,2012,2,24,24/02/2012,True
+480,ESA,StatusActive,37.0 ,Success,France,Multi,S,2012,2,13,13/02/2012,False
+481,Arianespace,StatusActive,80.0 ,Success,France,Multi,P,2011,12,17,17/12/2011,False
+482,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2011,12,12,12/12/2011,True
+483,ULA,StatusActive,145.0 ,Success,USA,USA,P,2011,11,26,26/11/2011,True
+484,ISRO,StatusActive,21.0 ,Success,India,India,S,2011,10,12,12/10/2011,True
+485,Northrop,StatusActive,46.0 ,Success,USA,USA,P,2011,9,27,27/09/2011,True
+486,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2011,9,23,23/09/2011,True
+487,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2011,9,21,21/09/2011,False
+488,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2011,9,11,11/09/2011,True
+489,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2011,8,17,17/08/2011,True
+490,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2011,8,6,06/08/2011,False
+491,ULA,StatusActive,153.0 ,Success,USA,USA,P,2011,8,5,05/08/2011,True
+492,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2011,7,16,16/07/2011,True
+493,ISRO,StatusActive,31.0 ,Success,India,India,S,2011,7,15,15/07/2011,True
+494,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2011,7,8,08/07/2011,True
+495,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2011,6,30,30/06/2011,True
+496,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2011,5,20,20/05/2011,False
+497,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2011,5,16,16/05/2011,True
+498,ULA,StatusActive,109.0 ,Success,USA,USA,P,2011,5,7,07/05/2011,True
+499,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2011,4,22,22/04/2011,False
+500,ISRO,StatusRetired,25.0 ,Success,India,India,S,2011,4,20,20/04/2011,True
+501,ULA,StatusActive,115.0 ,Success,USA,USA,P,2011,4,15,15/04/2011,True
+502,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2011,3,11,11/03/2011,True
+503,ULA,StatusActive,120.0 ,Success,USA,USA,P,2011,3,5,05/03/2011,True
+504,Northrop,StatusActive,45.0 ,Failure,USA,USA,P,2011,3,4,04/03/2011,True
+505,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2011,2,24,24/02/2011,True
+506,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2011,2,6,06/02/2011,True
+507,VKS RF,StatusRetired,41.8 ,Partial Failure,Russia,Russia,S,2011,2,1,01/02/2011,True
+508,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2011,1,22,22/01/2011,True
+509,ULA,StatusActive,350.0 ,Success,USA,USA,P,2011,1,20,20/01/2011,True
+510,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2010,12,29,29/12/2010,False
+511,ISRO,StatusRetired,47.0 ,Failure,India,India,S,2010,12,25,25/12/2010,True
+512,SpaceX,StatusRetired,59.5 ,Success,USA,USA,P,2010,12,8,08/12/2010,True
+513,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2010,11,26,26/11/2010,False
+514,ULA,StatusActive,350.0 ,Success,USA,USA,P,2010,11,21,21/11/2010,True
+515,Northrop,StatusActive,46.0 ,Success,USA,USA,P,2010,11,20,20/11/2010,True
+516,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2010,10,28,28/10/2010,False
+517,Northrop,StatusActive,46.0 ,Success,USA,USA,P,2010,9,26,26/09/2010,True
+518,ULA,StatusActive,120.0 ,Success,USA,USA,P,2010,9,21,21/09/2010,True
+519,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2010,9,8,08/09/2010,True
+520,ULA,StatusActive,140.0 ,Success,USA,USA,P,2010,8,14,14/08/2010,True
+521,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2010,8,4,04/08/2010,False
+522,ISRO,StatusActive,21.0 ,Success,India,India,S,2010,7,12,12/07/2010,True
+523,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2010,6,26,26/06/2010,False
+524,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2010,6,21,21/06/2010,False
+525,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2010,6,15,15/06/2010,True
+526,SpaceX,StatusRetired,59.5 ,Success,USA,USA,P,2010,6,4,04/06/2010,True
+527,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2010,6,2,02/06/2010,False
+528,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2010,5,28,28/05/2010,True
+529,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2010,5,21,21/05/2010,False
+530,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2010,5,14,14/05/2010,True
+531,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2010,5,10,10/05/2010,True
+532,ULA,StatusActive,120.0 ,Success,USA,USA,P,2010,4,22,22/04/2010,True
+533,ISRO,StatusActive,47.0 ,Failure,India,India,S,2010,4,15,15/04/2010,True
+534,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2010,4,8,08/04/2010,False
+535,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2010,4,5,05/04/2010,True
+536,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2010,3,4,04/03/2010,True
+537,ULA,StatusActive,109.0 ,Success,USA,USA,P,2010,2,11,11/02/2010,True
+538,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2010,2,8,08/02/2010,True
+539,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2009,11,28,28/11/2009,True
+540,ULA,StatusActive,130.0 ,Success,USA,USA,P,2009,11,23,23/11/2009,True
+541,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2009,11,16,16/11/2009,True
+542,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2009,11,2,02/11/2009,False
+543,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2009,10,29,29/10/2009,False
+544,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2009,10,28,28/10/2009,True
+545,ULA,StatusActive,109.0 ,Success,USA,USA,P,2009,10,18,18/10/2009,True
+546,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2009,10,1,01/10/2009,False
+547,ISRO,StatusActive,21.0 ,Success,India,India,S,2009,9,23,23/09/2009,True
+548,MHI,StatusRetired,112.5 ,Success,Japan,Japan,P,2009,9,10,10/09/2009,True
+549,ULA,StatusActive,109.0 ,Success,USA,USA,P,2009,9,8,08/09/2009,True
+550,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2009,8,28,28/08/2009,True
+551,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2009,8,21,21/08/2009,False
+552,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2009,7,29,29/07/2009,False
+553,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2009,7,15,15/07/2009,True
+554,SpaceX,StatusRetired,7.0 ,Success,USA,USA,P,2009,7,14,14/07/2009,True
+555,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2009,7,6,06/07/2009,True
+556,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2009,7,1,01/07/2009,False
+557,ULA,StatusRetired,164.0 ,Success,USA,USA,P,2009,6,27,27/06/2009,True
+558,ULA,StatusActive,123.0 ,Success,USA,USA,P,2009,6,18,18/06/2009,True
+559,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2009,5,19,19/05/2009,True
+560,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2009,5,14,14/05/2009,False
+561,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2009,5,11,11/05/2009,True
+562,ISRO,StatusActive,21.0 ,Success,India,India,S,2009,4,20,20/04/2009,True
+563,ULA,StatusActive,123.0 ,Success,USA,USA,P,2009,4,4,04/04/2009,True
+564,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2009,3,17,17/03/2009,False
+565,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2009,3,15,15/03/2009,True
+566,Northrop,StatusActive,45.0 ,Failure,USA,USA,P,2009,2,24,24/02/2009,True
+567,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2009,2,12,12/02/2009,False
+568,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2009,1,23,23/01/2009,True
+569,ULA,StatusActive,350.0 ,Success,USA,USA,P,2009,1,18,18/01/2009,True
+570,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2008,12,20,20/12/2008,False
+571,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2008,11,15,15/11/2008,True
+572,CASIC,StatusActive,29.75 ,Success,China,China,S,2008,11,5,05/11/2008,True
+573,CASIC,StatusActive,29.75 ,Success,China,China,S,2008,11,5,05/11/2008,True
+574,CASIC,StatusActive,29.15 ,Success,China,China,S,2008,10,29,29/10/2008,True
+575,CASIC,StatusActive,64.68 ,Success,China,China,S,2008,10,25,25/10/2008,True
+576,ISRO,StatusActive,31.0 ,Success,India,India,S,2008,10,22,22/10/2008,True
+577,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2008,10,19,19/10/2008,True
+578,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2008,10,1,01/10/2008,True
+579,SpaceX,StatusRetired,7.0 ,Success,USA,USA,P,2008,9,28,28/09/2008,True
+580,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2008,8,29,29/08/2008,False
+581,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2008,8,14,14/08/2008,False
+582,SpaceX,StatusRetired,7.0 ,Failure,USA,USA,P,2008,8,3,03/08/2008,True
+583,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2008,7,7,07/07/2008,False
+584,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2008,6,12,12/06/2008,False
+585,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2008,5,31,31/05/2008,True
+586,CASIC,StatusActive,64.68 ,Success,China,China,S,2008,5,27,27/05/2008,True
+587,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2008,5,23,23/05/2008,True
+588,ISRO,StatusActive,21.0 ,Success,India,India,S,2008,4,28,28/04/2008,True
+589,CASIC,StatusActive,20.14 ,Success,China,China,S,2008,4,25,25/04/2008,True
+590,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2008,4,18,18/04/2008,False
+591,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2008,4,15,15/04/2008,True
+592,ULA,StatusActive,123.0 ,Success,USA,USA,P,2008,4,14,14/04/2008,True
+593,ULA,StatusActive,115.0 ,Success,USA,USA,P,2008,3,13,13/03/2008,True
+594,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2008,3,11,11/03/2008,True
+595,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2008,2,23,23/02/2008,True
+596,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2008,2,7,07/02/2008,True
+597,ISRO,StatusActive,21.0 ,Success,India,India,S,2008,1,21,21/01/2008,True
+598,ULA,StatusActive,109.0 ,Success,USA,USA,P,2007,12,10,10/12/2007,True
+599,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2007,11,14,14/11/2007,False
+600,CASIC,StatusActive,64.68 ,Success,China,China,S,2007,11,11,11/11/2007,True
+601,ULA,StatusActive,350.0 ,Success,USA,USA,P,2007,11,11,11/11/2007,True
+602,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2007,10,23,23/10/2007,True
+603,ULA,StatusActive,123.0 ,Success,USA,USA,P,2007,10,11,11/10/2007,True
+604,CASIC,StatusActive,64.68 ,Success,China,China,S,2007,9,19,19/09/2007,True
+605,ISRO,StatusRetired,47.0 ,Partial Failure,India,India,S,2007,9,2,02/09/2007,True
+606,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2007,8,14,14/08/2007,False
+607,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2007,8,8,08/08/2007,True
+608,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2007,6,28,28/06/2007,True
+609,ULA,StatusActive,109.0 ,Partial Failure,USA,USA,P,2007,6,15,15/06/2007,True
+610,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2007,6,15,15/06/2007,False
+611,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2007,6,8,08/06/2007,True
+612,CASIC,StatusActive,69.7 ,Success,China,China,S,2007,5,31,31/05/2007,True
+613,CASIC,StatusActive,29.75 ,Success,China,China,S,2007,5,25,25/05/2007,True
+614,CASIC,StatusActive,29.15 ,Success,China,China,S,2007,5,13,13/05/2007,True
+615,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2007,5,4,04/05/2007,False
+616,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2007,4,25,25/04/2007,True
+617,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2007,4,24,24/04/2007,True
+618,ISRO,StatusActive,21.0 ,Success,India,India,S,2007,4,23,23/04/2007,True
+619,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2007,4,17,17/04/2007,False
+620,CASIC,StatusActive,69.7 ,Success,China,China,S,2007,4,13,13/04/2007,True
+621,CASIC,StatusActive,30.8 ,Success,China,China,S,2007,4,11,11/04/2007,True
+622,SpaceX,StatusRetired,7.0 ,Failure,USA,USA,P,2007,3,21,21/03/2007,True
+623,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2007,3,11,11/03/2007,False
+624,ULA,StatusActive,109.0 ,Success,USA,USA,P,2007,3,9,09/03/2007,True
+625,CASIC,StatusActive,69.7 ,Success,China,China,S,2007,2,2,02/02/2007,True
+626,ISRO,StatusRetired,25.0 ,Success,India,India,S,2007,1,10,10/01/2007,True
+627,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2006,12,16,16/12/2006,True
+628,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2006,12,10,10/12/2006,True
+629,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2006,12,8,08/12/2006,False
+630,CASIC,StatusActive,69.7 ,Success,China,China,S,2006,12,8,08/12/2006,True
+631,Boeing,StatusRetired,133.0 ,Success,USA,USA,P,2006,11,4,04/11/2006,True
+632,CASIC,StatusActive,64.68 ,Success,China,China,S,2006,10,23,23/10/2006,True
+633,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2006,10,13,13/10/2006,False
+634,CASIC,StatusActive,69.7 ,Success,China,China,S,2006,9,12,12/09/2006,True
+635,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2006,9,11,11/09/2006,True
+636,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2006,9,9,09/09/2006,True
+637,CASIC,StatusActive,30.8 ,Success,China,China,S,2006,9,9,09/09/2006,True
+638,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2006,8,11,11/08/2006,False
+639,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2006,7,28,28/07/2006,False
+640,Kosmotras,StatusRetired,29.0 ,Failure,Kazakhstan,Russia,S,2006,7,26,26/07/2006,False
+641,Kosmotras,StatusRetired,29.0 ,Success,Russia,Russia,S,2006,7,12,12/07/2006,True
+642,ISRO,StatusRetired,47.0 ,Failure,India,India,S,2006,7,10,10/07/2006,True
+643,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2006,7,4,04/07/2006,True
+644,Boeing,StatusRetired,164.0 ,Success,USA,USA,P,2006,6,28,28/06/2006,True
+645,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2006,5,27,27/05/2006,False
+646,Boeing,StatusRetired,164.0 ,Success,USA,USA,P,2006,5,24,24/05/2006,True
+647,CASIC,StatusActive,64.68 ,Success,China,China,S,2006,4,26,26/04/2006,True
+648,ILS,StatusActive,115.0 ,Success,USA,USA,P,2006,4,20,20/04/2006,True
+649,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2006,4,15,15/04/2006,True
+650,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2006,3,28,28/03/2006,True
+651,SpaceX,StatusRetired,7.0 ,Failure,USA,USA,P,2006,3,24,24/03/2006,True
+652,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2006,3,11,11/03/2006,False
+653,ILS,StatusActive,153.0 ,Success,USA,USA,P,2006,1,19,19/01/2006,True
+654,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2005,11,16,16/11/2005,False
+655,Eurockot,StatusRetired,41.8 ,Failure,Russia,Germany,S,2005,10,8,08/10/2005,False
+656,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2005,9,22,22/09/2005,True
+657,CASIC,StatusActive,29.75 ,Success,China,China,S,2005,8,29,29/08/2005,True
+658,VKS RF,StatusRetired,41.8 ,Success,Russia,Russia,S,2005,8,26,26/08/2005,True
+659,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2005,8,23,23/08/2005,False
+660,ILS,StatusActive,109.0 ,Success,USA,USA,P,2005,8,12,12/08/2005,True
+661,CASIC,StatusActive,30.8 ,Success,China,China,S,2005,8,2,02/08/2005,True
+662,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2005,7,26,26/07/2005,True
+663,CASIC,StatusActive,29.75 ,Success,China,China,S,2005,7,5,05/07/2005,True
+664,ISRO,StatusRetired,25.0 ,Success,India,India,S,2005,5,5,05/05/2005,True
+665,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2005,4,15,15/04/2005,True
+666,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2005,4,11,11/04/2005,True
+667,ILS,StatusActive,130.0 ,Success,USA,USA,P,2005,3,11,11/03/2005,True
+668,Arianespace,StatusActive,200.0 ,Success,France,Multi,P,2005,2,12,12/02/2005,False
+669,Boeing,StatusActive,350.0 ,Partial Failure,USA,USA,P,2004,12,21,21/12/2004,True
+670,Arianespace,StatusRetired,190.0 ,Success,France,Multi,P,2004,12,18,18/12/2004,False
+671,ILS,StatusActive,135.0 ,Success,USA,USA,P,2004,12,17,17/12/2004,True
+672,CASIC,StatusActive,30.8 ,Success,China,China,S,2004,11,18,18/11/2004,True
+673,VKS RF,StatusActive,48.5 ,Success,Russia,Russia,S,2004,11,8,08/11/2004,True
+674,CASIC,StatusActive,64.68 ,Success,China,China,S,2004,11,6,06/11/2004,True
+675,CASIC,StatusActive,69.7 ,Success,China,China,S,2004,10,19,19/10/2004,True
+676,CASIC,StatusActive,29.75 ,Success,China,China,S,2004,9,27,27/09/2004,True
+677,ISRO,StatusRetired,47.0 ,Success,India,India,S,2004,9,20,20/09/2004,True
+678,CASIC,StatusActive,64.68 ,Success,China,China,S,2004,9,8,08/09/2004,True
+679,CASIC,StatusActive,30.8 ,Success,China,China,S,2004,8,29,29/08/2004,True
+680,CASIC,StatusActive,30.8 ,Success,China,China,S,2004,7,25,25/07/2004,True
+681,Arianespace,StatusRetired,190.0 ,Success,France,Multi,P,2004,7,18,18/07/2004,False
+682,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2004,6,29,29/06/2004,False
+683,Northrop,StatusActive,45.0 ,Success,USA,USA,P,2004,5,20,20/05/2004,True
+684,CASIC,StatusActive,30.8 ,Success,China,China,S,2004,4,18,18/04/2004,True
+685,Arianespace,StatusRetired,190.0 ,Success,France,Multi,P,2004,3,2,02/03/2004,False
+686,CASIC,StatusActive,30.8 ,Success,China,China,S,2003,12,29,29/12/2003,True
+687,CASIC,StatusActive,69.7 ,Success,China,China,S,2003,11,14,14/11/2003,True
+688,CASIC,StatusActive,29.75 ,Success,China,China,S,2003,11,3,03/11/2003,True
+689,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2003,10,30,30/10/2003,False
+690,CASIC,StatusActive,64.68 ,Success,China,China,S,2003,10,21,21/10/2003,True
+691,Lockheed,StatusRetired,35.0 ,Success,USA,USA,P,2003,10,18,18/10/2003,True
+692,ISRO,StatusRetired,25.0 ,Success,India,India,S,2003,10,17,17/10/2003,True
+693,Boeing,StatusRetired,133.0 ,Success,USA,USA,P,2003,8,29,29/08/2003,True
+694,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2003,8,13,13/08/2003,True
+695,ILS,StatusActive,135.0 ,Success,USA,USA,P,2003,7,17,17/07/2003,True
+696,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2003,6,30,30/06/2003,False
+697,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2003,6,26,26/06/2003,True
+698,CASIC,StatusActive,69.7 ,Success,China,China,S,2003,5,24,24/05/2003,True
+699,ILS,StatusActive,109.0 ,Success,USA,USA,P,2003,5,13,13/05/2003,True
+700,ISRO,StatusRetired,47.0 ,Success,India,India,S,2003,5,8,08/05/2003,True
+701,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2003,4,28,28/04/2003,True
+702,Boeing,StatusRetired,133.0 ,Success,USA,USA,P,2003,3,11,11/03/2003,True
+703,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2003,1,25,25/01/2003,True
+704,NASA,StatusRetired,450.0 ,Failure,USA,USA,S,2003,1,16,16/01/2003,True
+705,Lockheed,StatusRetired,35.0 ,Success,USA,USA,P,2003,1,6,06/01/2003,True
+706,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2002,12,20,20/12/2002,False
+707,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2002,12,14,14/12/2002,True
+708,Arianespace,StatusActive,200.0 ,Failure,France,Multi,P,2002,12,11,11/12/2002,False
+709,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2002,11,24,24/11/2002,True
+710,Boeing,StatusRetired,164.0 ,Success,USA,USA,P,2002,11,20,20/11/2002,True
+711,CASIC,StatusActive,64.68 ,Success,China,China,S,2002,10,27,27/10/2002,True
+712,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2002,10,7,07/10/2002,True
+713,ISRO,StatusRetired,25.0 ,Success,India,India,S,2002,9,12,12/09/2002,True
+714,ILS,StatusActive,109.0 ,Success,USA,USA,P,2002,8,21,21/08/2002,True
+715,Lockheed,StatusRetired,35.0 ,Success,USA,USA,P,2002,6,24,24/06/2002,True
+716,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2002,6,20,20/06/2002,False
+717,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2002,6,5,05/06/2002,True
+718,CASIC,StatusActive,64.68 ,Success,China,China,S,2002,5,15,15/05/2002,True
+719,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2002,4,8,08/04/2002,True
+720,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2002,3,17,17/03/2002,False
+721,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2002,3,1,01/03/2002,True
+722,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2002,2,5,05/02/2002,True
+723,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2001,12,5,05/12/2001,True
+724,ISRO,StatusRetired,25.0 ,Success,India,India,S,2001,10,22,22/10/2001,True
+725,Northrop,StatusActive,45.0 ,Failure,USA,USA,P,2001,9,21,21/09/2001,True
+726,MHI,StatusActive,90.0 ,Success,Japan,Japan,P,2001,8,29,29/08/2001,True
+727,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2001,8,10,10/08/2001,True
+728,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2001,7,12,12/07/2001,True
+729,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2001,4,19,19/04/2001,True
+730,ISRO,StatusRetired,47.0 ,Partial Failure,India,India,S,2001,4,18,18/04/2001,True
+731,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2001,3,8,08/03/2001,True
+732,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2001,2,7,07/02/2001,True
+733,CASIC,StatusActive,69.7 ,Success,China,China,S,2000,12,20,20/12/2000,True
+734,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2000,11,30,30/11/2000,True
+735,CASIC,StatusActive,69.7 ,Success,China,China,S,2000,10,30,30/10/2000,True
+736,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2000,10,11,11/10/2000,True
+737,Northrop,StatusRetired,40.0 ,Success,USA,USA,P,2000,10,9,09/10/2000,True
+738,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,2000,9,26,26/09/2000,False
+739,Lockheed,StatusRetired,35.0 ,Success,USA,USA,P,2000,9,21,21/09/2000,True
+740,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2000,9,8,08/09/2000,True
+741,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2000,7,19,19/07/2000,True
+742,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2000,6,7,07/06/2000,True
+743,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2000,5,19,19/05/2000,True
+744,Eurockot,StatusRetired,41.8 ,Success,Russia,Germany,S,2000,5,16,16/05/2000,False
+745,Northrop,StatusActive,45.0 ,Success,USA,USA,P,2000,3,12,12/03/2000,True
+746,NASA,StatusRetired,450.0 ,Success,USA,USA,S,2000,2,11,11/02/2000,True
+747,Northrop,StatusActive,40.0 ,Success,USA,USA,P,2000,1,27,27/01/2000,True
+748,CASIC,StatusActive,69.7 ,Success,China,China,S,2000,1,25,25/01/2000,True
+749,Northrop,StatusActive,45.0 ,Success,USA,USA,P,1999,12,31,31/12/1999,True
+750,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1999,12,20,20/12/1999,True
+751,Lockheed,StatusRetired,35.0 ,Success,USA,USA,P,1999,12,12,12/12/1999,True
+752,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1999,12,4,04/12/1999,True
+753,CASIC,StatusActive,64.68 ,Success,China,China,S,1999,10,14,14/10/1999,True
+754,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1999,7,23,23/07/1999,True
+755,Lockheed,StatusRetired,35.0 ,Success,USA,USA,P,1999,6,20,20/06/1999,True
+756,CASIC,StatusActive,30.8 ,Success,China,China,S,1999,6,11,11/06/1999,True
+757,ISRO,StatusRetired,25.0 ,Success,India,India,S,1999,5,29,29/05/1999,True
+758,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1999,5,27,27/05/1999,True
+759,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1999,5,18,18/05/1999,True
+760,CASIC,StatusActive,64.68 ,Success,China,China,S,1999,5,10,10/05/1999,True
+761,Kosmotras,StatusRetired,29.0 ,Success,Kazakhstan,Russia,S,1999,4,21,21/04/1999,False
+762,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1999,3,5,05/03/1999,True
+763,CASIC,StatusActive,30.8 ,Success,China,China,S,1998,12,19,19/12/1998,True
+764,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1998,12,6,06/12/1998,True
+765,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1998,12,4,04/12/1998,True
+766,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1998,10,29,29/10/1998,True
+767,Northrop,StatusRetired,40.0 ,Success,USA,USA,P,1998,10,22,22/10/1998,True
+768,Northrop,StatusActive,45.0 ,Success,USA,USA,P,1998,10,3,03/10/1998,True
+769,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1998,9,23,23/09/1998,True
+770,CASIC,StatusActive,30.8 ,Success,China,China,S,1998,8,19,19/08/1998,True
+771,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1998,8,2,02/08/1998,True
+772,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1998,6,2,02/06/1998,True
+773,Lockheed,StatusRetired,35.0 ,Success,USA,USA,P,1998,5,13,13/05/1998,True
+774,CASIC,StatusActive,30.8 ,Success,China,China,S,1998,5,2,02/05/1998,True
+775,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1998,4,17,17/04/1998,True
+776,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1998,4,2,02/04/1998,True
+777,CASIC,StatusActive,30.8 ,Success,China,China,S,1998,3,25,25/03/1998,True
+778,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1998,2,26,26/02/1998,True
+779,Northrop,StatusActive,45.0 ,Success,USA,USA,P,1998,2,10,10/02/1998,True
+780,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1998,1,22,22/01/1998,True
+781,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1997,12,23,23/12/1997,True
+782,CASIC,StatusActive,30.8 ,Success,China,China,S,1997,12,8,08/12/1997,True
+783,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1997,11,19,19/11/1997,True
+784,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1997,10,22,22/10/1997,True
+785,ISRO,StatusRetired,25.0 ,Partial Failure,India,India,S,1997,9,29,29/09/1997,True
+786,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1997,9,25,25/09/1997,True
+787,CASIC,StatusActive,30.8 ,Success,China,China,S,1997,9,1,01/09/1997,True
+788,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1997,8,29,29/08/1997,True
+789,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1997,8,7,07/08/1997,True
+790,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1997,8,1,01/08/1997,True
+791,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1997,7,1,01/07/1997,True
+792,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1997,5,15,15/05/1997,True
+793,CASIC,StatusActive,69.7 ,Success,China,China,S,1997,5,11,11/05/1997,True
+794,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1997,4,21,21/04/1997,True
+795,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1997,4,4,04/04/1997,True
+796,Lockheed,StatusRetired,35.0 ,Success,USA,USA,P,1997,4,4,04/04/1997,True
+797,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1997,2,11,11/02/1997,True
+798,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1997,1,12,12/01/1997,True
+799,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1996,12,7,07/12/1996,True
+800,Northrop,StatusActive,40.0 ,Failure,USA,USA,P,1996,11,4,04/11/1996,True
+801,CASIC,StatusActive,29.75 ,Success,China,China,S,1996,10,20,20/10/1996,True
+802,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1996,9,16,16/09/1996,True
+803,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1996,8,21,21/08/1996,True
+804,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1996,7,2,02/07/1996,True
+805,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1996,6,20,20/06/1996,True
+806,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1996,5,19,19/05/1996,True
+807,Northrop,StatusRetired,40.0 ,Success,USA,USA,P,1996,5,17,17/05/1996,True
+808,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1996,3,22,22/03/1996,True
+809,ISRO,StatusRetired,25.0 ,Success,India,India,S,1996,3,21,21/03/1996,True
+810,Northrop,StatusActive,40.0 ,Success,USA,USA,P,1996,3,9,09/03/1996,True
+811,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1996,2,22,22/02/1996,True
+812,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1996,1,11,11/01/1996,True
+813,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1995,11,12,12/11/1995,True
+814,EER,StatusRetired,20.0 ,Failure,USA,USA,P,1995,10,23,23/10/1995,True
+815,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1995,10,20,20/10/1995,True
+816,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1995,9,7,07/09/1995,True
+817,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1995,7,13,13/07/1995,True
+818,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1995,6,27,27/06/1995,True
+819,Northrop,StatusActive,40.0 ,Failure,USA,USA,P,1995,6,22,22/06/1995,True
+820,Northrop,StatusRetired,40.0 ,Success,USA,USA,P,1995,4,3,03/04/1995,True
+821,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1995,3,2,02/03/1995,True
+822,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1995,2,3,03/02/1995,True
+823,CASIC,StatusActive,69.7 ,Partial Failure,China,China,S,1994,11,29,29/11/1994,True
+824,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1994,11,3,03/11/1994,True
+825,ISRO,StatusRetired,25.0 ,Success,India,India,S,1994,10,15,15/10/1994,True
+826,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1994,9,30,30/09/1994,True
+827,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1994,9,9,09/09/1994,True
+828,Northrop,StatusRetired,40.0 ,Success,USA,USA,P,1994,9,3,03/09/1994,True
+829,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1994,7,8,08/07/1994,True
+830,CASIC,StatusActive,29.75 ,Success,China,China,S,1994,7,3,03/07/1994,True
+831,Northrop,StatusActive,40.0 ,Failure,USA,USA,P,1994,6,27,27/06/1994,True
+832,Northrop,StatusRetired,40.0 ,Partial Failure,USA,USA,P,1994,5,19,19/05/1994,True
+833,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1994,4,9,09/04/1994,True
+834,Northrop,StatusActive,45.0 ,Success,USA,USA,P,1994,3,13,13/03/1994,True
+835,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1994,3,4,04/03/1994,True
+836,CASIC,StatusActive,69.7 ,Success,China,China,S,1994,2,8,08/02/1994,True
+837,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1994,2,3,03/02/1994,True
+838,Martin Marietta,StatusRetired,35.0 ,Success,USA,USA,P,1994,1,25,25/01/1994,True
+839,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1993,12,2,02/12/1993,True
+840,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1993,10,18,18/10/1993,True
+841,CASIC,StatusActive,30.8 ,Success,China,China,S,1993,10,8,08/10/1993,True
+842,Martin Marietta,StatusRetired,35.0 ,Failure,USA,USA,P,1993,10,5,05/10/1993,True
+843,ISRO,StatusRetired,25.0 ,Failure,India,India,S,1993,9,20,20/09/1993,True
+844,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1993,9,12,12/09/1993,True
+845,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1993,6,21,21/06/1993,True
+846,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1993,4,26,26/04/1993,True
+847,Northrop,StatusRetired,40.0 ,Success,USA,USA,P,1993,4,25,25/04/1993,True
+848,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1993,4,8,08/04/1993,True
+849,Northrop,StatusRetired,40.0 ,Success,USA,USA,P,1993,2,9,09/02/1993,True
+850,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1993,1,13,13/01/1993,True
+851,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1992,12,2,02/12/1992,True
+852,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1992,10,22,22/10/1992,True
+853,CASIC,StatusActive,30.8 ,Success,China,China,S,1992,10,6,06/10/1992,True
+854,Martin Marietta,StatusRetired,136.6 ,Success,USA,USA,P,1992,9,25,25/09/1992,True
+855,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1992,9,12,12/09/1992,True
+856,CASIC,StatusActive,29.75 ,Success,China,China,S,1992,8,9,09/08/1992,True
+857,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1992,7,31,31/07/1992,True
+858,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1992,6,25,25/06/1992,True
+859,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1992,5,7,07/05/1992,True
+860,Martin Marietta,StatusRetired,35.0 ,Success,USA,USA,P,1992,4,25,25/04/1992,True
+861,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1992,3,24,24/03/1992,True
+862,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1992,1,22,22/01/1992,True
+863,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1991,11,24,24/11/1991,True
+864,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1991,9,12,12/09/1991,True
+865,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1991,8,2,02/08/1991,True
+866,Northrop,StatusRetired,40.0 ,Partial Failure,USA,USA,P,1991,7,21,21/07/1991,True
+867,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1991,6,5,05/06/1991,True
+868,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1991,4,28,28/04/1991,True
+869,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1991,4,5,05/04/1991,True
+870,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1990,12,2,02/12/1990,True
+871,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1990,11,15,15/11/1990,True
+872,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1990,10,6,06/10/1990,True
+873,CASIC,StatusActive,30.8 ,Success,China,China,S,1990,10,5,05/10/1990,True
+874,Martin Marietta,StatusRetired,136.6 ,Success,USA,USA,P,1990,6,23,23/06/1990,True
+875,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1990,4,24,24/04/1990,True
+876,Northrop,StatusRetired,40.0 ,Success,USA,USA,P,1990,4,5,05/04/1990,True
+877,Martin Marietta,StatusRetired,136.6 ,Failure,USA,USA,P,1990,3,14,14/03/1990,True
+878,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1990,2,28,28/02/1990,True
+879,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1990,1,9,09/01/1990,True
+880,Martin Marietta,StatusRetired,136.6 ,Success,USA,USA,P,1990,1,1,01/01/1990,True
+881,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1989,11,23,23/11/1989,True
+882,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1989,10,18,18/10/1989,True
+883,Martin Marietta,StatusRetired,35.0 ,Success,USA,USA,P,1989,9,6,06/09/1989,True
+884,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1989,8,8,08/08/1989,True
+885,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1989,5,4,04/05/1989,True
+886,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1989,3,13,13/03/1989,True
+887,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1988,12,2,02/12/1988,True
+888,RVSN USSR,StatusRetired,"5,000.0 ",Success,Kazakhstan,Russia,S,1988,11,15,15/11/1988,False
+889,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1988,9,29,29/09/1988,True
+890,Martin Marietta,StatusRetired,35.0 ,Success,USA,USA,P,1988,9,5,05/09/1988,True
+891,CASIC,StatusActive,30.8 ,Success,China,China,S,1988,8,5,05/08/1988,True
+892,CASIC,StatusActive,30.8 ,Success,China,China,S,1987,9,9,09/09/1987,True
+893,CASIC,StatusActive,30.8 ,Success,China,China,S,1987,8,5,05/08/1987,True
+894,RVSN USSR,StatusRetired,"5,000.0 ",Success,Kazakhstan,Russia,S,1987,5,15,15/05/1987,False
+895,CASIC,StatusActive,30.8 ,Success,China,China,S,1986,10,6,06/10/1986,True
+896,NASA,StatusRetired,450.0 ,Failure,USA,USA,S,1986,1,28,28/01/1986,True
+897,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1986,1,12,12/01/1986,True
+898,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,11,27,27/11/1985,True
+899,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,11,6,06/11/1985,True
+900,CASIC,StatusActive,30.8 ,Success,China,China,S,1985,10,21,21/10/1985,True
+901,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,10,3,03/10/1985,True
+902,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,8,27,27/08/1985,True
+903,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,7,25,25/07/1985,True
+904,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,6,17,17/06/1985,True
+905,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,5,6,06/05/1985,True
+906,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,4,12,12/04/1985,True
+907,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1985,1,24,24/01/1985,True
+908,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1984,11,8,08/11/1984,True
+909,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1984,10,5,05/10/1984,True
+910,CASIC,StatusActive,30.8 ,Success,China,China,S,1984,9,12,12/09/1984,True
+911,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1984,8,30,30/08/1984,True
+912,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1984,4,6,06/04/1984,True
+913,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1984,2,3,03/02/1984,True
+914,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1983,11,28,28/11/1983,True
+915,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1983,9,5,05/09/1983,True
+916,CASIC,StatusActive,30.8 ,Success,China,China,S,1983,8,19,19/08/1983,True
+917,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1983,6,18,18/06/1983,True
+918,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1983,4,4,04/04/1983,True
+919,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1982,11,11,11/11/1982,True
+920,CASIC,StatusActive,30.8 ,Success,China,China,S,1982,9,9,09/09/1982,True
+921,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1982,6,27,27/06/1982,True
+922,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1982,3,22,22/03/1982,True
+923,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1981,11,12,12/11/1981,True
+924,NASA,StatusRetired,450.0 ,Success,USA,USA,S,1981,4,12,12/04/1981,True
+925,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1973,5,14,14/05/1973,True
+926,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1972,12,19,19/12/1972,True
+927,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1972,4,16,16/04/1972,True
+928,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1971,7,26,26/07/1971,True
+929,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1971,1,31,31/01/1971,True
+930,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1970,4,11,11/04/1970,True
+931,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1969,11,14,14/11/1969,True
+932,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1969,7,16,16/07/1969,True
+933,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1969,6,3,03/06/1969,True
+934,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1969,5,18,18/05/1969,True
+935,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1969,4,15,15/04/1969,True
+936,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1969,3,4,04/03/1969,True
+937,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1969,3,3,03/03/1969,True
+938,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1969,1,22,22/01/1969,True
+939,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1968,12,21,21/12/1968,True
+940,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1968,12,4,04/12/1968,True
+941,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1968,11,6,06/11/1968,True
+942,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1968,8,6,06/08/1968,True
+943,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1968,8,6,06/08/1968,True
+944,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1968,6,5,05/06/1968,True
+945,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1968,4,17,17/04/1968,True
+946,NASA,StatusRetired,"1,160.0 ",Partial Failure,USA,USA,S,1968,4,4,04/04/1968,True
+947,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1968,3,13,13/03/1968,True
+948,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1968,1,18,18/01/1968,True
+949,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1967,12,5,05/12/1967,True
+950,NASA,StatusRetired,"1,160.0 ",Success,USA,USA,S,1967,11,9,09/11/1967,True
+951,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1967,10,25,25/10/1967,True
+952,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1967,9,19,19/09/1967,True
+953,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1967,8,16,16/08/1967,True
+954,US Air Force,StatusRetired,59.0 ,Partial Failure,USA,USA,S,1967,6,20,20/06/1967,True
+955,US Air Force,StatusRetired,59.0 ,Failure,USA,USA,S,1967,4,26,26/04/1967,True
+956,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1967,2,24,24/02/1967,True
+957,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1966,12,14,14/12/1966,True
+958,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1966,9,28,28/09/1966,True
+959,US Air Force,StatusRetired,59.0 ,Success,USA,USA,S,1966,7,29,29/07/1966,True
+960,US Air Force,StatusRetired,63.23 ,Success,USA,USA,S,1965,5,6,06/05/1965,True
+961,US Air Force,StatusRetired,63.23 ,Success,USA,USA,S,1965,2,11,11/02/1965,True
+962,US Air Force,StatusRetired,63.23 ,Success,USA,USA,S,1964,12,10,10/12/1964,True
+963,US Air Force,StatusRetired,63.23 ,Failure,USA,USA,S,1964,9,1,01/09/1964,True
