@@ -4,3 +4,5 @@
 -=
 ### raw/ Unmodified 
 ### Processed/ modified also contains Tableau dashboards
+# Recording
+Our recording used Jack's Tableau dashboards. Each group member read over a piece of the explanation.
