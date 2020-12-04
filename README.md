@@ -25,4 +25,6 @@ Our group decided to analyze a data set on the Privatization of Space. The data 
 ## **Our data set**
 https://www.kaggle.com/davidroberts13/one-small-step-for-data
 
+## Presentation for our project dashboard
+- Here is a link to the dashboard presentation video: https://www.youtube.com/watch?v=lNHgWyTbTl8
 
